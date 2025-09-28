@@ -7,3 +7,17 @@ license = "MIT"
 
 
 [dependencies]
+actix-web = "4.11.0"
+anyhow = "1.0.100"
+thiserror = "2.0.16"
+tokio = { version = "1.47.1", features = ["macros", "rt", "rt-multi-thread"] }
+
+
+[lib]
+name = "zero2prod"
+path = "src/lib.rs"
+
+
+[[bin]]
+name = "zero2prod"
+path = "src/main.rs"
