@@ -1,5 +1,6 @@
 [default.extend-words]
 
+
 [files]
 extend-exclude = [
     "CHANGELOG.md",
@@ -15,4 +16,6 @@ extend-exclude = [
     "Cargo.lock",
     "Dockerfile",
     "docker-compose.yml",
+    "migration/target/*",
+    "tests/*",
 ]

@@ -1,2 +1,2 @@
 
-GET http://localhost:8080/healthy
+GET http://localhost:8080/health_check

@@ -1,0 +1,1 @@
+/Users/zhenbodou/Documents/rust/rust_project/zero2prod/migration/target/debug/libmigration.rlib: /Users/zhenbodou/Documents/rust/rust_project/zero2prod/migration/src/lib.rs /Users/zhenbodou/Documents/rust/rust_project/zero2prod/migration/src/m20250929_063424_create_subscriptions_table.rs
